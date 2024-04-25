@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/glossy/static/css/main.52b02c06.css",
+    "main.js": "/glossy/static/js/main.cf999143.js",
+    "static/js/453.bb828c5d.chunk.js": "/glossy/static/js/453.bb828c5d.chunk.js",
+    "static/media/main.jpg": "/glossy/static/media/main.d27eb77b7a4b8e772627.jpg",
+    "index.html": "/glossy/index.html",
+    "main.52b02c06.css.map": "/glossy/static/css/main.52b02c06.css.map",
+    "main.cf999143.js.map": "/glossy/static/js/main.cf999143.js.map",
+    "453.bb828c5d.chunk.js.map": "/glossy/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b02c06.css",
+    "static/js/main.cf999143.js"
+  ]
+}
